@@ -1,8 +1,8 @@
 #include <WiFi.h> //Reads button data with http push sensor
 #define button 23
 // WiFi credentials
-const char* ssid = "mulberry";
-const char* password = "9098370903";
+const char* ssid = "";
+const char* password = "";
 
 // PRTG server details
 const char* server = "192.168.1.75"; //Laptop's IP address
